@@ -11,11 +11,11 @@
 }
 
 .score-container svg:hover {
-  fill: #7076f4;
+  fill: #5500af;
 }
 
 .score-container input:checked ~ svg {
-  fill: #7076f4;
+  fill: #762ff1;
 }
 
 .radio-container {
